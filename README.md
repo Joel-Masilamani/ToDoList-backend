@@ -33,3 +33,7 @@ Non-Functional Requirements:
   •	Minimal user intervention
 
   •	Handle Real-Time updates
+
+
+  <img width="1480" height="738" alt="image" src="https://github.com/user-attachments/assets/9dd733c8-15d1-4268-83f4-33171045c18c" />
+
